@@ -14,7 +14,7 @@ If the player dies in either the first or second level, then their final score i
 
 Dying:
 
-A player dies when the collide with one of the four zombies. Once this happens, the game immediately ends and brings up the lose screen.
+A player dies when they collide with one of the four zombies. Once this happens, the game immediately ends and brings up the lose screen.
 
 Movement:
 
