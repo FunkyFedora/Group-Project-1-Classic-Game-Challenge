@@ -4,7 +4,7 @@ Created by Jenna Ward, Austin Michaud, and Matthew Falconett
 
 Our Game:
 
-Our game is called Zombie Horde. We based our based off of Pac-Man. The player is in the middle of a zombie apopcoylse in New York, they must collect all of the cans of food and escape the zombies. The goal of the game is to get the most point without dying.
+Our game is called Zombie Horde. We based our game off of Pac-Man. The player is in the middle of a zombie apopcoylse in New York, they must collect all of the cans of food and escape the zombies. The goal of the game is to get the most point without dying.
 
 Points System:
 
