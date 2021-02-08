@@ -4,7 +4,9 @@ Created by Jenna Ward, Austin Michaud, and Matthew Falconett
 
 File Descriptions:
 
-The documents folder contains the concept art file, the wireframes with menus file, and game analysis document. 
+The documents folder contains the concept art file, the wireframes with menus file, and game analysis document.
+
+The PacMan folder is our finished Unity project.
 
 Our Game:
 
