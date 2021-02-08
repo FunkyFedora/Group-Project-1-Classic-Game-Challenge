@@ -2,6 +2,10 @@
 
 Created by Jenna Ward, Austin Michaud, and Matthew Falconett
 
+File Descriptions:
+
+The documents folder contains the concept art file, the wireframes with menus file, and game analysis document. 
+
 Our Game:
 
 Our game is called Zombie Horde. We based our game off of Pac-Man. The player is in the middle of a zombie apopcoylse in New York, they must collect all of the cans of food and escape the zombies. The goal of the game is to get the most point without dying.
@@ -12,6 +16,10 @@ Players earn points by collecting the cans of food. Each can adds to the players
 
 If the player dies in either the first or second level, then their final score is based on many cans they were able to collect before being eaten by the zombies.
 
+Winning:
+
+A player wins when if they were able to collect all of the cans of food in both the first and second level.
+
 Dying:
 
 A player dies when they collide with one of the four zombies. Once this happens, the game immediately ends and brings up the lose screen.
@@ -19,3 +27,5 @@ A player dies when they collide with one of the four zombies. Once this happens,
 Movement:
 
 Players only control the human avatar. The player can only move up, down, left, and right using the arrow keys on the keyboard. The player can only move on the road and cannot go over any of the buildings or tan boundary.
+
+There is a hole on each side of the map that connect to each other. If the player going into one of the holes, they will be at the other hole connected to it. This allows players to easily escape the zombies.
