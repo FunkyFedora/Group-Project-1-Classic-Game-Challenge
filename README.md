@@ -2,6 +2,8 @@
 
 Created by Jenna Ward, Austin Michaud, and Matthew Falconett
 
+Itch.io link: https://jcward00.itch.io/zombie-horde
+
 File Descriptions:
 
 The documents folder contains the concept art file, the wireframes with menus file, and game analysis document.
